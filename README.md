@@ -60,8 +60,9 @@ For make a fake job offer detection, there are two ways:
 - Open the [notebook](https://github.com/Haroldgio28/fakejob_detection/blob/main/predict-test.ipynb) on Visual Studio Code or other code editor, and change the parameters.
 - In another command line, execute the [script](https://github.com/Haroldgio28/fakejob_detection/blob/main/predict-test.py), changing the parameters on the script.
 
-1. Modify the [file](https://github.com/Haroldgio28/fakejob_detection/blob/main/data/test.csv) and upload to streamlit app or insert data in the indicated fields
-   <!-- ![](https://github.com/Haroldgio28/Loan_rate_prediction/blob/main/app/test_app.gif) -->
+2. Modify the [file](https://github.com/Haroldgio28/fakejob_detection/blob/main/data/test.csv) and upload to streamlit app or insert data in the indicated fields.  
+Look at the animation for guide.
+   ![](https://github.com/Haroldgio28/fakejob_detection/blob/main/Animation.gif)
 
 
 ## Appendix
